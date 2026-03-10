@@ -26,7 +26,7 @@ RAW TIFF → Demosaic → White Balance → Color Transform → Color Manipulati
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/isp_pipeline.git
+git clone https://github.com/TungChihYuan/BetterPhoto.git
 cd isp_pipeline
 pip install -r requirements.txt
 ```
