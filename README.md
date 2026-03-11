@@ -99,3 +99,8 @@ isp_pipeline/
 └── tests/
     └── test_pipeline.py
 ```
+## Sample Usage
+
+```
+
+python main.py input_photo/IMG_3189.png output.jpg --save-stages 
